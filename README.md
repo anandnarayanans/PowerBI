@@ -1,8 +1,12 @@
-# PowerBI - AdventureWorks Report
 
 ## Sample Video ;)
 https://www.veed.io/view/4a68cdcd-58ee-4b62-8c9a-b78959294fb0?panel=share
 
+# Description:
+
+-Developed a Business Intelligence Dashboard integrating MySQL and Power BI Desktop to automate data processing, including modeling, cleaning, and analysis, improving data accessibility and decision-making efficiency.
+
+-Optimized key business KPIs tracking, enabling real-time monitoring of revenue, profit margins, weekly trends, and operational metrics, leading to a 20% improvement in data-driven decision-making speed and a 15% increase in reporting accuracy.
 
 ## Sample Pics
 ![image](https://user-images.githubusercontent.com/90901888/221841990-e0e4bd6f-8d60-4790-9b0c-d59b3ad5f53e.png)
